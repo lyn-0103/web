@@ -101,8 +101,14 @@ form{
 	font-size:14px;
 	margin-left: 20px;
 	font-weight:400;
+	position: relative;
 	
 	
+}
+.banner .black span{
+	position: absolute;
+	right: 14px;
+
 }
 .banner .black a{
 	color: rgba(255, 255, 255, 1);
@@ -152,7 +158,6 @@ form{
 .nav li a{
 
 	font-size:16px;
-	
 	
 }
 .navbg a{
