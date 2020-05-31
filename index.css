@@ -479,7 +479,7 @@ form{
 	
 	position: absolute;
 	top: 124px;
-	left: 0px;
+	left: 20px;
 
 }
 
@@ -490,7 +490,7 @@ form{
 	color:rgba(102,102,102,1);
 	
 	position: absolute;
-	left: 0px;
+	left: 20px;
 	top: 195px;
 }
 
@@ -502,7 +502,7 @@ form{
 	
 	position: absolute;
 	top: 240px;
-	left: 0px;
+	left: 20px;
 	padding: 12px 30px 10px 27px;
 	border: 1px solid rgba(0,164,255,1);
 }
